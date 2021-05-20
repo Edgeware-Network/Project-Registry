@@ -133,7 +133,7 @@ A list of awesome things for people looking to buidl on Edgeware. Please submit 
 * [Paralink](https://paralink.network/) - A multi-chain oracle platform for DeFi applications
 * [Patract Elara](https://github.com/patractlabs/elara-docs) - Infura for the Polkadot ecosystem
 
-###Infrastructure
+### Infrastructure
 * [Kylin Network](https://kylin.network/) is building a cross-chain platform powering the data economy on Polkadot
 * [Zondax](https://zondax.ch/) is a team of software developers, engineers and cryptographers focused on blockchain protocol development and integration and software for HSMs and hardware wallets
 * [4thPillarTech](https://the4thpillar.io/technology/) is an EU-Identity compliant document notarization and transfer service
