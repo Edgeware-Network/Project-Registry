@@ -111,13 +111,36 @@ A list of awesome things for people looking to buidl on Edgeware. Please submit 
 
 * [Edgeware Wallet(beta)](https://github.com/shekohex/edgeware-wallet)
 
-### Analytics 
+### Analytics
 
-### NFT
+### Decentralized Autonomous Organizations (DAOs)
+* [Edgeware Alpha](https://commonwealth.im/edgeware/discussions/builDAO) is an incubator and for-profit DAO
+* [Decent Partners](https://www.decent.partners/) is a 'metadao' that seeks to create crypto-native public media
+* [LexBridge](https://commonwealth.im/edgeware/proposal/discussion/948-proposal-lexbridge-legal-entitydocument-panel?comment=body) is a technological bridge to jurisdictions in the US - launch a DAO, and get a Series LLC mapped to that DAO
 
-### DeFi
-* [Sublime Finance](https://medium.com/@sublime.finance/announcing-sublime-f9d6fd1abd2f)
-* [dTrade](https://commonwealth.im/edgeware/proposal/discussion/810-introducing-dtrade)
+### Zero Knowledge (ZK)
+* [Webb Protocol](https://commonwealth.im/webb/proposal/discussion/1122-new-welcome-to-the-webb) is a privacy technology designer launched from Commonwealth Labs
+
+### Non-Fungible Tokens (NFTs)
+* [New-Futures](https://www.new-futures.co/)
+* [Zien](https://zien.io/about)
+
+### Decentralized Finance (DeFi)
+* [Sublime Finance](https://medium.com/@sublime.finance/announcing-sublime-f9d6fd1abd2f) - Protocol for capital-efficient money markets
+* [dTrade](https://dtrade.org/) - Synthetic options and futures on Polkadot
+* [Tidal Finance](https://tidal.finance/) - Protocol for smart contract cover & cross-chain insurance pools
+* [Interlay / PolkaBTC](https://polkadot.network/bitcoin-is-coming-to-polkadot/?utm_content=142539261&utm_medium=social&utm_source=twitter&hss_channel=tw-1595615893) - A trustless bridge to bring Bitcoin to Edgeware
+* [Paralink](https://paralink.network/) - A multi-chain oracle platform for DeFi applications
+* [Patract Elara](https://github.com/patractlabs/elara-docs) - Infura for the Polkadot ecosystem
+
+### Infrastructure
+* [Kylin Network](https://kylin.network/) is building a cross-chain platform powering the data economy on Polkadot
+* [Zondax](https://zondax.ch/) is a team of software developers, engineers and cryptographers focused on blockchain protocol development and integration and software for HSMs and hardware wallets
+* [4thPillarTech](https://the4thpillar.io/technology/) is an EU-Identity compliant document notarization and transfer service
+* [Covalent](https://www.covalenthq.com/) provides a unified API bringing visibility to billions of blockchain data points
+* [ICON Network](https://icon.foundation/?lang=en) is a decentralized aggregator network with interoperability
+* [Chainlink](https://chain.link/)'s decentralized oracle network provides reliable, tamper-proof inputs and outputs for complex smart contracts on any blockchain
+* [OnFinality](https://onfinality.io/) is a SaaS platform that provides infrastructure services for the Polkadot/Substrate community
 
 ### AMM
 
