@@ -102,8 +102,6 @@ A list of awesome things for people looking to buidl on Edgeware. Please submit 
 * [dTrade](https://commonwealth.im/edgeware/proposal/discussion/810-introducing-dtrade) - platform for synthetic assets trading 
 
 ## Projects in Production
-
-* [YieldScan](https://yieldscan-edgeware.vercel.app/)
   
 ### Web GUIs
 
